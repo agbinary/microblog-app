@@ -8,6 +8,7 @@ gem 'bootstrap-sass',       '3.2.0.0'
 
 gem 'sprockets', '2.11.0'
 gem 'bcrypt-ruby', '3.1.2'
+gem 'faker', '1.1.2'
 
 #Test
 group :test do
